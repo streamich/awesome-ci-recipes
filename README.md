@@ -10,6 +10,7 @@
 <br />
 
 - [`cross-ci`](https://github.com/streamich/cross-ci) &mdash; normalize CI variables across CI runners.
+- [`env-ci`](https://github.com/pvdlg/env-ci) &mdash; get environment variables exposed by CI services.
 - Set env vars on CircleCI: `echo 'export MY_VAR=123' >> $BASH_ENV`
 
 <br />
