@@ -22,7 +22,7 @@
 
 - `npx ci-scripts slack` &mdash; [send build infromation to Slack](https://github.com/streamich/ci-scripts/blob/master/docs/slack.md).
 - `npx ci-scripts github-post` &mdash; [send build infromation to GitHub](https://github.com/streamich/ci-scripts/blob/master/docs/github-post.md).
-- [`slack-cli`](https://github.com/rockymadden/slack-cli)
+- [`slack-cli`](https://github.com/rockymadden/slack-cli) &mdash;  powerful Slack CLI via pure bash
 - [`commit-status`](https://github.com/taskworld/commit-status) &mdash; set commit status link on GitHub.
 
 <br />
@@ -35,8 +35,8 @@
 
 - `aws s3 sync ./public s3://$S3_BUCKET/$PROJECT_NAME/$BUILD_VERSION/public` &mdash; upload to S3.
 - [`gh-pages`](https://github.com/tschaub/gh-pages) &mdash; upload a folder to [GitHub Pages](https://pages.github.com/).
-- [Deploy Docker image to AWS ECS/Fargate](./docs/ECR.md)
-- [Deploy function to AWS Lambda](./docs/Lambda.md)
+- [Deploy Docker image to AWS ECS/Fargate](./docs/ECR.md).
+- [Deploy function to AWS Lambda](./docs/Lambda.md).
 
 <br />
 <br />
