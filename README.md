@@ -22,7 +22,7 @@
 
 - `npx ci-scripts slack` &mdash; [send build infromation to Slack](https://github.com/streamich/ci-scripts/blob/master/docs/slack.md).
 - `npx ci-scripts github-post` &mdash; [send build infromation to GitHub](https://github.com/streamich/ci-scripts/blob/master/docs/github-post.md).
-- [`slack-cli`](https://github.com/rockymadden/slack-cli) &mdash;  powerful Slack CLI via pure bash
+- [`slack-cli`](https://github.com/rockymadden/slack-cli) &mdash;  powerful Slack CLI via pure BASH.
 - [`commit-status`](https://github.com/taskworld/commit-status) &mdash; set commit status link on GitHub.
 
 <br />
