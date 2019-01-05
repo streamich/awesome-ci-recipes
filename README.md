@@ -2,7 +2,15 @@
 <img width="500" height="350" src="https://gitcdn.xyz/repo/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 </div>
 
+<h1 align="center"><sub>Configs</sub></h1>
 
+<br />
+<br />
+
+- [Travis sample config (simple)](./docs/configs/travis-simple.md)
+
+<br />
+<br />
 
 <h1 align="center"><sub>Environment Variables</sub></h1>
 
@@ -55,6 +63,7 @@
 - [`conventional-recommended-bump`](https://www.npmjs.com/package/conventional-recommended-bump) &mdash; compute recommended semantic bump from semantic commits.
 - [`shipit`](https://github.com/sapegin/shipit) &mdash; minimalistic SSH deployment.
 - [`auto-release`](https://github.com/intuit/auto-release) &mdash; generate releases based on semantic version labels on pull requests.
+- [`aws cloudfront update-distribution`](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-distribution.html) &mdash; switch AWS CloudFront distribution target key.
 
 <br />
 <br />
