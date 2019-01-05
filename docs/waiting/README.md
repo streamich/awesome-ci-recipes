@@ -11,7 +11,7 @@ Install [`wait_for_http_200.sh`](wait_for_http_200.sh).
 W=/usr/local/bin/wait_for_http_200 && curl -o $W https://raw.githubusercontent.com/streamich/awesome-ci-recipes/master/docs/waiting/wait_for_http_200.sh && chmod +x $W && unset W
 ```
 
-Now git it URL and command will exit when that URL responds with 200 status code.
+Now give it URL and command will exit when that URL responds with 200 status code.
 
 ```shell
 wait_for_http_200 https://...
