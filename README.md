@@ -40,6 +40,7 @@
 - [Deploy function to AWS Lambda](./docs/deploying/Lambda.md).
 - [Deploy project to Firebase](./docs/deploying/Firebase.md).
 - [Deploy Heroku app](./docs/deploying/Heroku.md).
+- [`scp` examples](http://www.hypexr.org/linux_scp_help.php) &mdash; copy files over SSH.
 
 <br />
 <br />
@@ -53,7 +54,7 @@
 - [`release-it`](https://github.com/webpro/release-it) &mdash; release to NPM and GitHub.
 - [`conventional-recommended-bump`](https://www.npmjs.com/package/conventional-recommended-bump) &mdash; compute recommended semantic bump from semantic commits.
 - [`shipit`](https://github.com/sapegin/shipit) &mdash; minimalistic SSH deployment.
-- [`auto-release`](https://github.com/intuit/auto-release) &mdash; Generate releases based on semantic version labels on pull requests.
+- [`auto-release`](https://github.com/intuit/auto-release) &mdash; generate releases based on semantic version labels on pull requests.
 
 <br />
 <br />
