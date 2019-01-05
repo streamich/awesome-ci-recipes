@@ -34,10 +34,12 @@
 <br />
 <br />
 
-- `aws s3 sync ./public s3://$S3_BUCKET/$PROJECT_NAME/$BUILD_VERSION/public` &mdash; upload to S3.
+- [Upload to AWS S3](./docs/deploying/S3.md).
 - [`gh-pages`](https://github.com/tschaub/gh-pages) &mdash; upload a folder to [GitHub Pages](https://pages.github.com/).
-- [Deploy Docker image to AWS ECS/Fargate](./docs/ECR.md).
-- [Deploy function to AWS Lambda](./docs/Lambda.md).
+- [Deploy Docker image to AWS ECS/Fargate](./docs/deploying/ECR.md).
+- [Deploy function to AWS Lambda](./docs/deploying/Lambda.md).
+- [Deploy project to Firebase](./docs/deploying/Firebase.md).
+- [Deploy Heroku app](./docs/deploying/Heroku.md).
 
 <br />
 <br />
