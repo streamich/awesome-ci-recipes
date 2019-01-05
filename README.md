@@ -50,7 +50,8 @@
 - `npx semantic-release` &mdash; release to NPM and GitHub with [`semantic-release`](https://github.com/semantic-release/semantic-release).
 - [`release-it`](https://github.com/webpro/release-it) &mdash; release to NPM and GitHub.
 - [`conventional-recommended-bump`](https://www.npmjs.com/package/conventional-recommended-bump) &mdash; compute recommended semantic bump from semantic commits.
-- [`https://github.com/sapegin/shipit`](https://github.com/sapegin/shipit) &mdash; minimalistic SSH deployment.
+- [`shipit`](https://github.com/sapegin/shipit) &mdash; minimalistic SSH deployment.
+- [`auto-release`](https://github.com/intuit/auto-release) &mdash; Generate releases based on semantic version labels on pull requests.
 
 <br />
 <br />
